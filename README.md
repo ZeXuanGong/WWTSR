@@ -1,5 +1,7 @@
 # WWTSR
 
+English | [简体中文](README.zh-CN.md)
+
 A desktop pet written in Java (JavaFX): a small creature sits in the corner of the screen and
 taps with alternating hands on every key press and mouse click. Taps unlock chests; chests give
 roles, accessories and emotes to collect, wear and combine.
